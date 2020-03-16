@@ -1,0 +1,7 @@
+dario\main\Exceptions\ResponseStatusException.class
+dario\main\Models\Partner.class
+dario\main\Repository\IPartnerRepository.class
+dario\main\Services\IPartnerService.class
+dario\main\Controllers\PartnerController.class
+dario\main\Services\PartnerServiceImpl.class
+dario\main\MainApplicationClass.class
